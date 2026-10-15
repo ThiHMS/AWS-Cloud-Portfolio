@@ -2,7 +2,7 @@
 
 # ☁️ AWS Cloud Portfolio
 
-### Laboratórios • Assessments • Arquitetura • Cloud Security
+### Laboratórios • Projetos • Arquitetura • Cloud Security
 
 Portfólio de estudos e projetos práticos em Amazon Web Services (AWS), com foco em arquitetura de nuvem, segurança, avaliações técnicas e boas práticas.
 
