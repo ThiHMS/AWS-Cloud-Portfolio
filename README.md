@@ -39,6 +39,7 @@ Este repositório reúne laboratórios, assessments e projetos relacionados à A
 Avaliação de uma empresa fictícia de streaming de vídeos sob demanda, com análise dos seis pilares do AWS Well-Architected Framework.
 
 **Status:** 🟢 Concluído
+📄 [**Acessar assessment completo →**](Assessments/01-VideoStreamX-Well-Architected/README.md)
 
 </td>
 <td width="50%" valign="top">
