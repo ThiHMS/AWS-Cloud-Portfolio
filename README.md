@@ -36,10 +36,9 @@ Este repositório reúne laboratórios, assessments e projetos relacionados à A
 ### 🟠 Lab 01 — VideoStreamX
 
 **AWS Well-Architected Assessment**
-
 Avaliação de uma empresa fictícia de streaming de vídeos sob demanda, com análise dos seis pilares do AWS Well-Architected Framework.
 
-**Status:** 🟡 Em andamento
+**Status:** 🟢 Concluído
 
 </td>
 <td width="50%" valign="top">
