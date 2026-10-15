@@ -17,7 +17,6 @@ Portfólio de estudos e projetos práticos em Amazon Web Services (AWS), com foc
 ---
 
 ## 📌 Sobre o repositório
-
 Este repositório reúne laboratórios, assessments e projetos relacionados à AWS. O objetivo é documentar estudos práticos, avaliar arquiteturas, identificar oportunidades de melhoria e desenvolver habilidades em Cloud Computing e Cloud Security.
 
 ## 🎯 Objetivos
@@ -75,21 +74,6 @@ Estudos sobre dimensionamento de recursos, visibilidade de custos e otimização
 </tr>
 </table>
 
-## 🗂️ Estrutura do portfólio
-
-```text
-AWS-Cloud-Portfolio/
-├── README.md
-├── Labs/
-├── Assessments/
-│   └── 01-VideoStreamX-Well-Architected/
-├── Projects/
-├── Infrastructure-as-Code/
-├── docs/
-│   └── templates/
-└── assets/
-```
-
 ## 🧰 Áreas de estudo
 
 | Área | Foco |
@@ -100,19 +84,6 @@ AWS-Cloud-Portfolio/
 | Monitoring | Logs, métricas, alarmes e observabilidade |
 | Cost Optimization | Eficiência e uso adequado de recursos |
 | Infrastructure as Code | Automação e provisionamento de infraestrutura |
-
-## 🗺️ Roadmap
-
-- [x] Criar o repositório principal.
-- [x] Definir a estrutura inicial do portfólio.
-- [ ] Documentar o assessment VideoStreamX.
-- [ ] Adicionar diagramas e evidências sanitizadas.
-- [ ] Publicar novos laboratórios de Cloud Security.
-- [ ] Desenvolver projetos de arquitetura e automação.
-
-## 🔒 Segurança e privacidade
-
-Materiais derivados de ambientes reais devem ser sanitizados antes da publicação. Não serão incluídos IDs de conta AWS, ARNs, e-mails pessoais, credenciais, tokens ou outros identificadores sensíveis.
 
 ## ⚠️ Aviso
 
